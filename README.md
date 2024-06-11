@@ -1,2 +1,2 @@
 # Linguist
-Linguist (Language translator with OCR)
+Linguist (Language translator with OCR feature).
